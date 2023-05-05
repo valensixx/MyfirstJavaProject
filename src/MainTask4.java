@@ -16,5 +16,7 @@ public class MainTask4 {
 
         c = Math.sqrt((x*x)+(y*y));
         System.out.println("The hypotenuse is: "+c);
+
+        scanner.close();
     }
 }

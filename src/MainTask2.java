@@ -22,5 +22,7 @@ public class MainTask2 {
         System.out.println("You are "+age +" years old");
         System.out.println("Your favorite food is: " + food);
 
+        scanner.close();
+
     }
 }
