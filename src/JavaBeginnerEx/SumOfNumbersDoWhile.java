@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Sum of numbers:
 //Write a program that asks the user to enter a series of numbers and calculates their sum using a do-while loop.
-// The loop should continue until the user enters a negative number.
+
 public class SumOfNumbersDoWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
